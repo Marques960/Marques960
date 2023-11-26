@@ -1,4 +1,4 @@
-### Hi, my name is Rafael 🙂🖐️
+### Hi, my name is Rafael 🖐️
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rl43uqvglbpyvd4kpj8iuk3e2) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-marques-69b559177/)
