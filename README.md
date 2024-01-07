@@ -19,5 +19,9 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  
+  <img align="center" alt="Android Studio" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png
+" />
+  <img align="center" alt="Android Studio" src="" />
+  <img align="center" alt="Android Studio" src="" />
+  <img align="center" alt="Android Studio" src="" />
 </div>
