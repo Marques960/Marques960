@@ -5,7 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_marques960)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marquess960)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marques960&layout=compact)
+<a href="https://github.com/marques960">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marques960&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marques960" /></p>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marques960&theme=tokyonight&show_icons=true" />
+</a>
 
 ## SKILLS
 <div style="display: inline_block"><br/>
@@ -16,6 +19,4 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
- 
 </div>
