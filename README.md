@@ -11,36 +11,39 @@ I'm a programming enthusiast, currently working with Flutter..</b>
 
 <h3>🔧Languages: </h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=4% height=4%>&nbsp;&nbsp;<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width=4% height=4%/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=4% height=4%/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=4% height=4%/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=4% height=4%/>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"  width=4% height=4%>&nbsp;&nbsp;<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"  width=4% height=4%>&nbsp;&nbsp;
           
-<hr width="30%">
+<hr width="42%">
  
 </p>
 <h3>🛠️Tools: </h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width=4% height=4%>&nbsp;&nbsp;<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=4% height=4%>&nbsp;&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width=4% height=4%>&nbsp;&nbsp;<br>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
 </p>
 
 <hr width="30%">
