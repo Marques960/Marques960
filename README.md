@@ -29,18 +29,18 @@ I'm a programming enthusiast, currently working with Flutter..</b>
 </p>
 <h3>🛠️Tools: </h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4% height=4%>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width=4% height=4%><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=4% height=4%>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=4% height=4%>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width=4% height=4%>&nbsp;&nbsp;<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width=4% height=4%>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=4% height=4%>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=4% height=4%>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=4% height=4%>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width=4% height=4%>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=4% height=4%>&nbsp;
 </p>
 
 <hr width="45%">
