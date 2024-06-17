@@ -43,9 +43,11 @@ I'm a programming enthusiast, currently working with Flutter..</b>
 <a href=https://www.linkedin.com/in/rafael-marques-69b559177/ target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=4% height=4%>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=https://twitter.com/marquess960 target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=4% height=5%>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
  <a href=https://www.instagram.com/rafael_marques960/ target="_blank" rel="noopener noreferrer">
 <img src="https://user-images.githubusercontent.com/84676077/179369077-291037d9-bb83-41c9-8ca5-c91415c44374.png" width=4% height=4%>
  </a>
