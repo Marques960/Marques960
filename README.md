@@ -31,7 +31,7 @@ I'm a programming enthusiast, currently working with Flutter..</b>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=4% height=4%>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4% height=4%>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width=4% height=4%>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width=4% height=4%>
 </p>
