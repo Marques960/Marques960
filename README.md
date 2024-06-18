@@ -7,7 +7,7 @@
 
 I'm a programming enthusiast, currently working with Flutter..</b>
 
-<hr width="44%">
+<hr width="44.5%">
 
 <h3>🔧Languages: </h3>
 <p>
