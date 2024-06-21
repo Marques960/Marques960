@@ -5,7 +5,7 @@
 
 <br>
 
-I'm a programming enthusiast, currently working with Flutter..</b>
+I'm a programming enthusiast, currently working with Flutter.</b>
 
 <hr width="44.5%">
 
