@@ -60,4 +60,6 @@ I'm a programming enthusiast, currently working with Flutter.</b>
           
 <hr width="25%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marques960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=marques960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right" width="50%">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rl43uqvglbpyvd4kpj8iuk3e2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
