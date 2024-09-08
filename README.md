@@ -5,7 +5,7 @@
 
 <br>
 
-I'm a programming enthusiast, currently working with Flutter.</b>
+I'm a programming enthusiast, currently making a Computer Science Engineering Degree at @ISEC.</b>
 
 <hr width="44.5%">
 
