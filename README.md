@@ -26,7 +26,7 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"  width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  width=4% height=4%>&nbsp;&nbsp;
           
 <hr width="42%">
  
