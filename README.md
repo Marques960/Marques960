@@ -47,6 +47,7 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=4% height=4%>&nbsp;&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width=4% height=4%>&nbsp;&nbsp;
 </p>
 
 <hr width="30%">
@@ -58,7 +59,6 @@ I'm a programming enthusiast, currently making a Computer Science Engineering De
 <a href="https://www.instagram.com/rafael_marques960/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height=4% width=4% /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/marquess960" target="blank"><img align="center" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;        
 <a href="https://open.spotify.com/user/rl43uqvglbpyvd4kpj8iuk3e2" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="in/marques960" height=4% width=4% /></a>&nbsp;&nbsp;
-
 </p>
           
 <hr width="25%">
